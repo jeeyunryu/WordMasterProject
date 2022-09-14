@@ -1,9 +1,9 @@
 package org.example;
 
+import java.io.IOException;
+
 public class Main {
-
-    public static void main(String[] args) {
-        new WordManager().start();
+    public static void main(String[] args) throws IOException {
+        new Manager().start();
     }
-
 }
