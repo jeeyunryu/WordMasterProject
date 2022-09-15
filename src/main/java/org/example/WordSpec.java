@@ -4,19 +4,19 @@ public class WordSpec {
 
     private String meaning;
     private String word;
-    private String level;
+    private int level;
 
-    public WordSpec(String level, String word, String meaning) {
+    public WordSpec(int level, String word, String meaning) {
         this.level = level;
         this.word = word;
         this.meaning = meaning;
     }
 
-    public String getLevel() {
+    public int getLevel() {
         return level;
     }
 
-    public void setLevel(String level) {
+    public void setLevel(int level) {
         this.level = level;
     }
 

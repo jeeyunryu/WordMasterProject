@@ -9,11 +9,11 @@ public class Manager {
         int menu = 0;
         WordCRUD word = new WordCRUD();
         int count = word.loadFile();
-        System.out.println("-> " + count + "개의 단어를 가져왔습니다");
+        System.out.println("=> " + count + "개 단어 로딩 완료!\n");
+        System.out.println("*** 영단어 마스터 ***\n");
         while(true) {
 
-            System.out.print("----------------------\n" +
-                    "영단어장\n"
+            System.out.print("********************\n"
                     + "1. 모든 단어 보기\n"
                     + "2. 수준별 단어 보기\n"
                     + "3. 단어 검색\n"
@@ -22,10 +22,14 @@ public class Manager {
                     + "6. 단어 삭제\n"
                     + "7. 파일 저장\n"
                     + "0. 나가기\n"
-                    + "----------------------\n"
-                    + "-> 메뉴를 선택해주세요 : ");
+                    + "********************\n"
+                    + "=> 원하는 메뉴는? ");
+
             menu = sc.nextInt();
-            if(menu == 0) break;
+            if(menu == 0) {
+                System.out.println("\n프로그램 종료! 다음에 만나요~");
+                break;
+            }
             else if(menu == 4) {
                 word.AddWord(sc);
             }
