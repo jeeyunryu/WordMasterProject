@@ -27,3 +27,4 @@
 ## 7. 파일 
 <img src='https://github.com/jeeyunryu/WordMasterProject/blob/master/screenshots/Screenshot%202022-09-15%20212128.png?raw=true' width='300'>
 <img src='https://github.com/jeeyunryu/WordMasterProject/blob/master/screenshots/Screenshot%202022-09-15%20212243.png?raw=true' width='300'>
+<img src='https://github.com/jeeyunryu/WordMasterProject/blob/master/screenshots/Screenshot%202022-09-15%20212257.png?raw=true' width='300'>
