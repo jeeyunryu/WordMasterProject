@@ -16,4 +16,4 @@
 <img src='https://github.com/jeeyunryu/WordMasterProject/blob/master/screenshots/Screenshot%202022-09-15%20205357.png?raw=true' width='300'>
 
 ## 단어 검색 실행화면
-<img src='https://github.com/jeeyunryu/WordMasterProject/blob/master/screenshots/Screenshot%202022-09-14%20140911.png?raw=true' width='300'>
+<img src='https://github.com/jeeyunryu/WordMasterProject/blob/master/screenshots/Screenshot%202022-09-15%20205918.png?raw=true' width='300'>
