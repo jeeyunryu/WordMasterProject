@@ -17,3 +17,6 @@
 
 ## 단어 검색 실행화면
 <img src='https://github.com/jeeyunryu/WordMasterProject/blob/master/screenshots/Screenshot%202022-09-15%20205918.png?raw=true' width='300'>
+
+## 단어 수정 실행 화면
+<img src='https://github.com/jeeyunryu/WordMasterProject/blob/master/screenshots/Screenshot%202022-09-15%20205918.png?raw=true' width='300'>
