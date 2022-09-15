@@ -21,4 +21,4 @@
 ## 5. 단어 수정
 <img src='https://github.com/jeeyunryu/WordMasterProject/blob/master/screenshots/Screenshot%202022-09-15%20210114.png?raw=true' width='300'>
 ## 6. 단어 삭제
-<img src='https://github.com/jeeyunryu/WordMasterProject/blob/master/screenshots/Screenshot%202022-09-15%20210114.png?raw=true' width='300'>
+<img src='https://github.com/jeeyunryu/WordMasterProject/blob/master/screenshots/Screenshot%202022-09-15%20211258.png?raw=true' width='300'>
